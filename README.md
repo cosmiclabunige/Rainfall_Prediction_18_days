@@ -1,6 +1,6 @@
 # Rainfall_Prediction_18_days
 
-The two pickle files contain the datasets concerning the 18 days of measurements described in the article "Rain Discrimination with Machine Learning Classifiers for Opportunistic Rain Detection System using Satellite Micro-wave Links". The data have been collected using sensors mounted on two parabolic dishes having a diameter of 60cm and 85cm, respectively.  
+The two pickle files contain the datasets concerning the 18 days of rainfall measurements described in the article "Rain Discrimination with Machine Learning Classifiers for Opportunistic Rain Detection System using Satellite Micro-wave Links". The data have been collected using sensors mounted on two parabolic dishes having a diameter of 60cm and 85cm, respectively.  
 
 Open the datasets using the pickle library for python with the following commands:
 
