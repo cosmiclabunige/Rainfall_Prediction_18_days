@@ -4,7 +4,7 @@ The two pickle files contain the datasets concerning the 18 days of rainfall mea
 
 Open the datasets using the pickle library for python with the following commands:
 
-import pickle as pk  
+*import pickle as pk*  
 
 datasetPath = "Dataset_85cm.pkl"  
 with open(datasetPath, "rb") as f:  
