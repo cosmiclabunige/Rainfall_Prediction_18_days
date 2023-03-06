@@ -15,3 +15,4 @@ The "dataset" variable is a dictionary containing the 18 days SRS measurements e
 
 Please cite the article as:
 
+Gianoglio, C.; Alyosef, A.; Colli, M.; Zani, S.; Caviglia, D.D. Rain Discrimination with Machine Learning Classifiers for Opportunistic Rain Detection System Using Satellite Micro-Wave Links. Sensors 2023, 23, 1202. https://doi.org/10.3390/s23031202
